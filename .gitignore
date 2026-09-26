@@ -1,0 +1,40 @@
+# Unreal Engine generated files (including plugin/platform output).
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Generated IDE project files and local editor state.
+.vs/
+.vscode/
+.idea/
+.cache/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.code-workspace
+*.xcodeproj/
+*.xcworkspace/
+
+# Local Unreal settings, including development credentials.
+Config/User*.ini
+Platforms/*/Config/User*.ini
+
+# Temporary files and operating system metadata.
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep project sources, default/platform settings, Build resources,
+# Content/__ExternalActors__, and Content/__ExternalObjects__ versioned.
